@@ -93,7 +93,7 @@ const clickCard = (e) => {
         }else {
             matches++;
             if(matches === 8) {
-                alert("WINNER");
+                alert("YOU WIN!");
             }
             firstPick = null;
             isPaused = false;
@@ -114,7 +114,8 @@ const getFrontAndBackFromCard = (card) => {
 
 //this a function to reset the game and it will be async to other function
 //we will do while we wait for the result of another function
-const resetGame = async() => {
+function resetGame() {
+
     game.innerHTML = '';
     isPaused = true;
     firstPick = null;
@@ -124,7 +125,8 @@ const resetGame = async() => {
         displayPokemon([...loadedPokemon, ...loadedPokemon]);
         isPaused = false;
     },200)
+    console.log('hi')
 }
 
-button.addEventListener('click',resetGame())
+button.addEventListener('click',resetGame)
 //call the function for pokemon
