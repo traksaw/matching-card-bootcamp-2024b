@@ -4,6 +4,8 @@ A fun and interactive Pokémon-themed matching game that challenges players to f
 
 ---<img width="958" alt="Screenshot 2024-11-20 at 12 04 35 AM" src="https://github.com/user-attachments/assets/39f04fe0-584d-42bf-9b22-0b4fb9934d04">
 
+**[Play the Game Here! 🎮](https://pokemontcmg.netlify.app/)**
+
 
 ## Table of Contents
 - [Features](#features)
