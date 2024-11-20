@@ -2,7 +2,11 @@
 
 A fun and interactive Pokémon-themed matching game that challenges players to find all matching pairs of Pokémon cards. The game leverages the **PokéAPI** to fetch random Pokémon data, creating a dynamic and visually engaging experience for fans of the Pokémon universe.
 
----<img width="958" alt="Screenshot 2024-11-20 at 12 04 35 AM" src="https://github.com/user-attachments/assets/39f04fe0-584d-42bf-9b22-0b4fb9934d04">
+---
+
+<img width="958" alt="Screenshot 2024-11-20 at 12 04 35 AM" src="https://github.com/user-attachments/assets/39f04fe0-584d-42bf-9b22-0b4fb9934d04">
+
+---
 
 **[Play the Game Here! 🎮](https://pokemontcmg.netlify.app/)**
 
